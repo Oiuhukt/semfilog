@@ -6,7 +6,7 @@ layout: default
 
 <html>
 
-<h1> Seminario de Filosofía de la lógica.</h1>
+<h1> Descripción del Seminario</h1>
 <br>
 
 <p>
