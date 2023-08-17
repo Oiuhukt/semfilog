@@ -25,7 +25,7 @@ También <b>colaboran</b> el seminario <a href="https://www.nossaspam.com/">Mar 
 <br>
 
 <p>
-Entre las actividades del seminario hemos contado contado con algunos invitados. El propósito de las charlas es que las alumnas tengan contacto con personas que estén desarrollando investigación en el área, tanto dentro como fuera del país. Entre nuestros invitados han estado: Josephine Dik, Dominik Pichler y Robert Freiman.
+Entre las actividades del seminario hemos contado contado con algunos invitados. El propósito de las charlas es que las alumnas tengan contacto con personas que estén desarrollando investigación en el área, tanto dentro como fuera del país. Entre nuestros invitados han estado: <a href="https://josephinedik.github.io/">Josephine Dik</a>, Dominik Pichler y Robert Freiman.
 </p>
 
 <br>
