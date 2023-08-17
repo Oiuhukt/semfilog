@@ -1,13 +1,13 @@
 # Site Specific Configuration
-name: LightSpeed
-description: A simple Jekyll theme
-url: https://example.com
-author: tajacks
-timezone: America/Toronto
-timezone_short: ET
+name: Semiflog
+description: Página del seminario
+url: https://oiuhukt.github.io/semiflog/
+author: Oiuhukt
+timezone: Ciudad de México
+timezone_short: CST
 
 # Keywords
-keywords: ['seo', 'key', 'words']
+keywords: ['lógica', 'seminario', 'computabilidad']
 
 # Analytics (Plausible requires sign-up)
 analytics:
