@@ -1,6 +1,8 @@
 ---
 title: Seminario
+header: failosophy
 description: Información sobre seminario
+permalink: /seminario/
 layout: default
 ---
 
