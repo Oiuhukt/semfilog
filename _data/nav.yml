@@ -1,6 +1,6 @@
 - name: Posts
-  permalink: /posts
+  link: /semiflog/posts
 - name: Categories
-  permalink: /categories
+  permalink: /semiflog/categories
 - name: Home
   permalink: /semiflog
