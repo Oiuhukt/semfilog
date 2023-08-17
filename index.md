@@ -10,7 +10,7 @@ layout: default
 <br>
 
 <p>
-Somos un grupo de trabajo creado por Raymundo Meza, Juan Sandoval, Eduardo Granados y yo. Todos tenemos un interés especial en las herramientas formales disponibles en filosofía. Raymundo, Juan y Eduardo no sólo están interesados en esto, sino que son investigadores activos en el área.
+Somos un grupo de trabajo creado por Raymundo Meza, Juan Sandoval, Eduardo Granados y Abraham Olivetti. Todos tenemos un interés especial en las herramientas formales disponibles en filosofía. Raymundo, Juan y Eduardo no sólo están interesados en esto, sino que son investigadores activos en el área.
 </p>
 <br>
 
