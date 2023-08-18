@@ -1,6 +1,6 @@
-- name: Posts
-  link: /semiflog/posts
-- name: Categories
-  link: /semiflog/categories
 - name: Home
   link: /semiflog
+- name: Posters
+  link: /semiflog/posts
+- name: Actividades
+  link: /semiflog/categories
