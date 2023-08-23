@@ -13,10 +13,10 @@ pagination:
 <div class="post-nav">
 {% if paginator.total_pages > 1 %}
 {% if paginator.next_page %}
-<a href="{{ paginator.next_page_path | prepend: site.baseurl }}">&lt;- Older</a>
+<a href="{{ paginator.next_page_path }}">&lt;- Older</a>
 {% endif %}
 {% if paginator.previous_page %}
-<a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer -&gt;</a>
+<a href="{{ paginator.previous_page_path }}">Newer -&gt;</a>
 {% endif %}
 {% endif %}
 </div>
