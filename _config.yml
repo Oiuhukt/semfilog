@@ -1,6 +1,7 @@
 # Site Specific Configuration
 name: Semiflog
 description: Página del seminario
+basewebsite: /semiflog
 url: https://oiuhukt.github.io/semiflog/
 author: Oiuhukt
 timezone: Ciudad de México
