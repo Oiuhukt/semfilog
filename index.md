@@ -60,13 +60,13 @@ Entre nuestros invitados han estado: <a href="https://josephinedik.github.io/">J
 
 <div class="row">
  <div class="column">
-   <img src="/assets/images/SL_JD.png" alt="Josephine" title="Póster Josephine" />
+   <img src="./assets/images/SL_JD.png" alt="Josephine" title="Póster Josephine" />
  </div>
  <div class="column">
-   <img src="/assets/images/SL_DP.png" alt="Josephine" title="Póster Josephine" />
+   <img src="./assets/images/SL_DP.png" alt="Josephine" title="Póster Josephine" />
  </div>
  <div class="column">
-   <img src="/assets/images/SL_RF.png" alt="Josephine" title="Póster Josephine" />
+   <img src="./assets/images/SL_RF.png" alt="Josephine" title="Póster Josephine" />
  </div>
 </div>
 
